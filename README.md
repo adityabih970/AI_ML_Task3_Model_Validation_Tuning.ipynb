@@ -108,5 +108,5 @@ Open the notebook and run all cells.
 
 ## 👨‍💻 Author
 
-**Rudra Rajeev**
+**ADITYA RAJ**
 B.Tech – Saharsa College of Engineering
